@@ -1,0 +1,15 @@
+ErrorDocument 400 http://urlsh.rf.gd
+ErrorDocument 401 http://urlsh.rf.gd
+ErrorDocument 403 http://urlsh.rf.gd
+ErrorDocument 404 http://urlsh.rf.gd
+ErrorDocument 503 http://urlsh.rf.gd
+Redirect 301 /urls/project https://www.mediafire.com/file/i5qazl1mjwvzctl/PROJECT_completed_1.1.2.rar/file
+Redirect 301 /urls/razzy https://razzy.hu/fax
+Redirect 301 /urls/Domperes_gangmaster https://open.spotify.com/track/3q8b8Rn1UB0bG9QG2yBgIQ?si=45627d6ed7c948fb
+Redirect 301 /urls/example3 http://urlsh.rf.gd
+Redirect 301 /urls/example4 http://urlsh.rf.gd
+Redirect 301 /urls/example5 http://urlsh.rf.gd
+Redirect 301 /urls/example6 http://urlsh.rf.gd
+Redirect 301 /urls/example7 http://urlsh.rf.gd
+Redirect 301 /urls/example8 http://urlsh.rf.gd
+Redirect 301 /urls/example9 http://urlsh.rf.gd
